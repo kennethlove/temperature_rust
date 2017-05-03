@@ -1,0 +1,12 @@
+[package]
+name = "temperature"
+version = "0.1.0"
+authors = ["Kenneth Love <kenneth@gigantuan.net>"]
+
+[dependencies]
+
+reqwest = "0.5.1"
+serde = "1.0.2"
+serde_derive = "1.0.2"
+serde_json = "1.0.1"
+url = "1.4.0"
